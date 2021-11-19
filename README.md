@@ -1,9 +1,9 @@
 ## Hi there, I'm Andrei, but all of my friends call me Miron :smile:
 
-<img align="right" src = "https://github.com/mironandrei/mironandrei/blob/main/snoop-dogg-dancing.gif" width="460" />
+<img align="right" src = "https://github.com/mironandrei/mironandrei/blob/main/snoop-dogg-dancing.gif" width="460" height = "460"/>
 
 :mortar_board: System Engineerig Student at POLITEHNICA University of Bucharest
-:mortar_board: #Faculty of Automatic Control and Computer Science
+:mortar_board: Faculty of Automatic Control and Computer Science
 
 
 A simple guy passionate about technology and computers in general
