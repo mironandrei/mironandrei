@@ -2,7 +2,7 @@
 
 <br />
 
-:mortar_board: System Engineerig Student at POLITEHNICA University of Bucharest \n
+:mortar_board: System Engineerig Student at POLITEHNICA University of Bucharest
 :mortar_board: #Faculty of Automatic Control and Computer Science
 
 
