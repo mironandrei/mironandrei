@@ -1,7 +1,6 @@
 ## Hi there, I'm Andrei, but all of my friends call me Miron :smile:
 
 <br />
-
 ### :mortar_board: System Engineerig Student at POLITEHNICA University of Bucharest
 ### :mortar_board: #Faculty of Automatic Control and Computer Science
 
