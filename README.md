@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @mironandrei
-- 👀 I’m interested in C, C++, SQL, java
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi there, I'm Andrei, but all of my friends call me Miron :smile:
 
-<!---
-mironandrei/mironandrei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br />
+
+### :mortar_board: System Engineerig Student at POLITEHNICA University of Bucharest
+### :mortar_board: #Faculty of Automatic Control and Computer Science
+
+
+A simple guy passionate about technology and computers in general
+My goal is to learn more about software architecture design to improve my skills and my abillity to write code
+
+/play tada
