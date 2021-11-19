@@ -1,6 +1,6 @@
 ## Hi there, I'm Andrei, but all of my friends call me Miron :smile:
 
-<img align="right" src = "https://github.com/mironandrei/mironandrei/blob/main/snoop-dogg-dancing.gif" width="150" height = "200"/>
+<img align="right" src = "https://github.com/mironandrei/mironandrei/blob/main/snoop-dogg-dancing.gif" width="250" height = "400"/>
 
 :mortar_board: System Engineerig Student at POLITEHNICA University of Bucharest
 :mortar_board: Faculty of Automatic Control and Computer Science
