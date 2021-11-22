@@ -1,6 +1,6 @@
 ## Hi there, I'm Andrei, but all of my friends call me Miron :statue_of_liberty:
 
-<img align="right" src = "https://github.com/mironandrei/mironandrei/blob/main/type7-911turbo.gif" width="200" height = "330"/>
+<img align="right" src = "https://github.com/mironandrei/mironandrei/blob/main/type7-911turbo.gif" width="350" height = "330"/>
 
 #### :mortar_board: System Engineerig Student at POLITEHNICA University of Bucharest  
 #### :mortar_board: Faculty of Automatic Control and Computer Science
