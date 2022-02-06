@@ -6,7 +6,7 @@
 #### :mortar_board: Faculty of Automatic Control and Computer Science
 
 
-An motivated, ambitious and good team-worker passionate about technology and computers in general 👨‍💻
+An ambitious, motivated and good team-worker passionate about technology and computers in general 👨‍💻
 
 My goal is to learn more about software architecture design and object oriented programming, to improve my skills and my abillity to write code
 
