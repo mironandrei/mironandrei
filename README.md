@@ -8,7 +8,7 @@
 
 An ambitious, motivated and good team-worker passionate about technology and computers in general 👨‍💻
 
-My goal is to learn more about software architecture design and object oriented programming, to improve my skills and my abillity to write code
+My goal is to learn more about software architecture design, object oriented programming and microservices, to improve my skills and my abillity to write code.
 
 In my free time I like to go to the gym 🏋️‍♂️, go for an atv ride or play a good game 🎮
 
